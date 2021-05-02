@@ -1,0 +1,375 @@
+Wine Quality Dataset Training 90+, Testing -19-30
+
+Result for RBF Support Vector Regression
+Training Accuracy  0.4683037746212013
+Testing Accuracy  0.42125077672321026
+
+Result for Linear Support Vector Regression
+Training Accuracy  0.2754257857453286
+Testing Accuracy  0.31472165530823837
+
+Result for Decision Tree Regression
+Training Accuracy  1.0
+Testing Accuracy  0.07632450438401017
+
+Result for Random Forest Regression
+Training Accuracy  0.9289656764541946
+Testing Accuracy  0.5250360852568972
+
+Result for AdaBoost Regression
+Training Accuracy  0.31226434597205555
+Testing Accuracy  0.3229499140458755
+
+Result for Gaussian Process Regression
+Training Accuracy  0.9999999999999999
+Testing Accuracy  -1.1128349439592626
+
+Result for Linear Regression
+Training Accuracy  0.2787923571470843
+Testing Accuracy  0.3183091831121041
+
+Result for Ridge Regression
+Training Accuracy  0.27879226856172745
+Testing Accuracy  0.3183193878128272
+-------------------------------------------------------
+
+
+Communities and Crimes Dataset 
+
+Result for RBF Support Vector Regression
+Training Accuracy  0.6612087537892788
+Testing Accuracy  0.6600210748851049
+
+Result for Linear Support Vector Regression
+Training Accuracy  0.6770664083840026
+Testing Accuracy  0.6599797903263034
+
+Result for Decision Tree Regression
+Training Accuracy  1.0
+Testing Accuracy  0.4060146471988104
+
+Result for Random Forest Regression
+Training Accuracy  0.9489010688924217
+Testing Accuracy  0.6492620621335912
+
+Result for AdaBoost Regression
+Training Accuracy  0.5893731822861936
+Testing Accuracy  0.5415387417868875
+
+Result for Gaussian Process Regression
+Training Accuracy  1.0
+Testing Accuracy  0.3942200867149164
+
+Result for Linear Regression
+Training Accuracy  0.6923965779756482
+Testing Accuracy  0.6622243293465724
+
+Result for Ridge Regression
+Training Accuracy  0.6821924792266516
+Testing Accuracy  0.6774020856808084
+-------------------------------------------------------
+
+
+QSAR Aquatic Toxicity Dataset Training 99-50, Testing -711-41
+
+Result for RBF Support Vector Regression
+Training Accuracy  0.6435515010544091
+Testing Accuracy  0.4517173017109236
+
+Result for Linear Support Vector Regression
+Training Accuracy  0.4954259115149435
+Testing Accuracy  0.2937105678047186
+
+Result for Decision Tree Regression
+Training Accuracy  0.999870221796227
+Testing Accuracy  0.038144670730585695
+
+Result for Random Forest Regression
+Training Accuracy  0.9347688781099526
+Testing Accuracy  0.47923878133998943
+
+Result for AdaBoost Regression
+Training Accuracy  0.6344776935183081
+Testing Accuracy  0.4165675897306359
+
+Result for Gaussian Process Regression
+Training Accuracy  0.9998664035961803
+Testing Accuracy  -567.842776774572
+
+Result for Linear Regression
+Training Accuracy  0.5157421702891147
+Testing Accuracy  0.3080200885557336
+
+Result for Ridge Regression
+Training Accuracy  0.5156415705253167
+Testing Accuracy  0.31432627844873307
+-------------------------------------------------------
+
+
+Parkinsons Dataset
+
+Result for RBF Support Vector Regression
+Training R2 Score  0.23434186569384807
+Testing R2 Score  0.1422437713205955
+
+Result for Linear Support Vector Regression
+Training R2 Score  0.42069875351735136
+Testing R2 Score  0.29157311687060283
+
+Result for Decision Tree Regression
+Training R2 Score  1.0
+Testing R2 Score  0.7019731364378847
+
+Result for Random Forest Regression
+Training R2 Score  0.9854613804772923
+Testing R2 Score  0.8806876152849011
+
+Result for AdaBoost Regression
+Training R2 Score  0.7843248477941915
+Testing R2 Score  0.7611528373732339
+
+Result for Gaussian Process Regression
+Training R2 Score  1.0
+Testing R2 Score  0.051274475208382575
+
+Result for Linear Regression
+Training R2 Score  0.4630029854318196
+Testing R2 Score  0.3367026828893618
+
+Result for Ridge Regression
+Training R2 Score  0.4611197510876309
+Testing R2 Score  0.3342368889794215
+-------------------------------------------------------
+
+
+Facebook Metrics Dataset Great result exxcept Gaussian and SVR!
+
+Result for RBF Support Vector Regression
+Training Accuracy  -0.026011219670105
+Testing Accuracy  -0.04850155734165451
+
+Result for Linear Support Vector Regression
+Training Accuracy  0.8664346797862001
+Testing Accuracy  0.8106765256973646
+
+Result for Decision Tree Regression
+Training Accuracy  1.0
+Testing Accuracy  0.9831944800735952
+
+Result for Random Forest Regression
+Training Accuracy  0.9525253987210149
+Testing Accuracy  0.985118504118751
+
+Result for AdaBoost Regression
+Training Accuracy  0.9871836395275451
+Testing Accuracy  0.9581912537302629
+
+Result for Gaussian Process Regression
+Training Accuracy  1.0
+Testing Accuracy  -0.22530833634095956
+
+Result for Linear Regression
+Training Accuracy  0.9993480103738843
+Testing Accuracy  0.999677211648347
+
+Result for Ridge Regression
+Training Accuracy  0.9992967321928076
+Testing Accuracy  0.9996055586107101
+-------------------------------------------------------
+
+
+Bike Sharing Dataset Training 99, Testing 99, Gaussian TEST BAD
+
+Result for RBF Support Vector Regression
+Training Accuracy  0.8950774954740807
+Testing Accuracy  0.9023786128233887
+
+Result for Linear Support Vector Regression
+Training Accuracy  0.9999999107110493
+Testing Accuracy  0.9999999129500992
+
+Result for Decision Tree Regression
+Training Accuracy  1.0
+Testing Accuracy  0.9990716470408799
+
+Result for Random Forest Regression
+Training Accuracy  0.9999565440142892
+Testing Accuracy  0.9997839215192886
+
+Result for AdaBoost Regression
+Training Accuracy  0.9796691722113762
+Testing Accuracy  0.9791080320290081
+
+Result for Gaussian Process Regression
+Training Accuracy  1.0
+Testing Accuracy  0.9503019062454958
+
+Result for Linear Regression
+Training Accuracy  1.0
+Testing Accuracy  1.0
+
+Result for Ridge Regression
+Training Accuracy  0.9999999929406742
+Testing Accuracy  0.9999999933502391
+-------------------------------------------------------
+
+
+Student Performance Dataset
+
+Result for RBF Support Vector Regression
+Training Accuracy  0.760374452958367
+Testing Accuracy  0.71728816422167
+
+Result for Linear Support Vector Regression
+Training Accuracy  0.8484234842634825
+Testing Accuracy  0.8299128784474389
+
+Result for Decision Tree Regression
+Training Accuracy  1.0
+Testing Accuracy  0.6007845918063911
+
+Result for Random Forest Regression
+Training Accuracy  0.9777301179597248
+Testing Accuracy  0.8071383114692225
+
+Result for AdaBoost Regression
+Training Accuracy  0.9220371921295081
+Testing Accuracy  0.7988652577990799
+
+Result for Gaussian Process Regression
+Training Accuracy  1.0
+Testing Accuracy  -15.869983126936692
+
+Result for Linear Regression
+Training Accuracy  0.8647478955896908
+Testing Accuracy  0.8285972386650469
+
+Result for Ridge Regression
+Training Accuracy  0.864745166235222
+Testing Accuracy  0.8288832795318855
+-------------------------------------------------------
+
+
+Concrete Compressive Dataset SVR BAD, Training good Testing Bad
+
+Result for RBF Support Vector Regression
+Training Accuracy  0.6428179829592577
+Testing Accuracy  0.6350186714480297
+
+Result for Linear Support Vector Regression
+Training Accuracy  0.588894118393676
+Testing Accuracy  0.6153826102556321
+
+Result for Decision Tree Regression
+Training Accuracy  0.9957743342584536
+Testing Accuracy  0.816551823381297
+
+Result for Random Forest Regression
+Training Accuracy  0.9840697932083874
+Testing Accuracy  0.8917277102577137
+
+Result for AdaBoost Regression
+Training Accuracy  0.824515399414621
+Testing Accuracy  0.79629070403894
+
+Result for Gaussian Process Regression
+Training Accuracy  0.9957741527888528
+Testing Accuracy  -92.49091133047718
+
+Result for Linear Regression
+Training Accuracy  0.6075580625561182
+Testing Accuracy  0.6312392013753645
+
+Result for Ridge Regression
+Training Accuracy  0.607531588237086
+Testing Accuracy  0.6309702435170527
+-------------------------------------------------------
+SGEMM GPU Performance Dataset Memory SVR TIME, Problem in GPR, Rest Perfect
+
+Result for RBF Support Vector Regression
+Training Accuracy  0.48350471175140364
+Testing Accuracy  0.4843804047404263
+
+Result for Linear Support Vector Regression
+Training Accuracy  0.2325472844983122
+Testing Accuracy  0.23290673104283832
+
+Result for Decision Tree Regression
+Training Accuracy  1.0
+Testing Accuracy  0.9998258867366558
+
+Result for Random Forest Regression
+Training Accuracy  0.9999801923545915
+Testing Accuracy  0.999864126140892
+
+Result for AdaBoost Regression
+Training Accuracy  0.4313451379922572
+Testing Accuracy  0.4220546742099247
+
+Result for Gaussian Process Regression
+
+
+-----------------------------------------------------------------------------
+Merck Molecular Dataset 1
+
+Result for RBF Support Vector Regression
+Training Accuracy  0.7283242640924221
+Testing Accuracy  0.6688663999393418
+
+Result for Decision Tree Regression
+Training Accuracy  0.9410128359966139
+Testing Accuracy  0.4327306002341156
+
+Result for Random Forest Regression
+Training Accuracy  0.9100532904750185
+Testing Accuracy  0.649584300943636
+
+Result for AdaBoost Regression
+Training Accuracy  0.5203180514878596
+Testing Accuracy  0.4972331993238437
+
+Result for Gaussian Process Regression
+Training Accuracy  0.941012836197035
+Testing Accuracy  -28.464707026594308
+
+Result for Linear Regression
+Training Accuracy  0.8668948875063631
+Testing Accuracy  -7.379126880382609e+20
+
+Result for Ridge Regression
+Training Accuracy  0.84086166558547
+Testing Accuracy  0.4208684188300015
+-------------------------------------------------------
+Merck Molecular Dataset 2
+
+Result for RBF Support Vector Regression
+Training Accuracy  0.7491867865329929
+Testing Accuracy  0.6468813930695944
+
+Result for Linear Support Vector Regression
+Training Accuracy  0.9406432427800678
+Testing Accuracy  -0.23416315664500864
+
+Result for Decision Tree Regression
+Training Accuracy  0.9765778586038842
+Testing Accuracy  0.3634841201068816
+
+Result for Random Forest Regression
+Training Accuracy  0.9282446348673851
+Testing Accuracy  0.6532659078587573
+
+Result for AdaBoost Regression
+Training Accuracy  0.5100692531205551
+Testing Accuracy  0.4275978868494176
+
+Result for Gaussian Process Regression
+Training Accuracy  0.9765778591272114
+Testing Accuracy  -110.55518128232315
+
+Result for Linear Regression
+Training Accuracy  0.967616960338833
+Testing Accuracy  -2.799036141851124e+22
+
+Result for Ridge Regression
+Training Accuracy  0.9528574856746233
+Testing Accuracy  0.16002991963689273

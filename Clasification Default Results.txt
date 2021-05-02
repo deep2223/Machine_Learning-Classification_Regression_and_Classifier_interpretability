@@ -1,0 +1,521 @@
+Diabetic Retinopathy Dataset
+
+Result for Logistic Regression Classification
+Training Accuracy :  0.7663043478260869
+Testing Accuracy :  0.7359307359307359
+      Training Recall score :  0.7047817047817048
+      Testing f1 score :  0.6692307692307692
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.6054347826086957
+Testing Accuracy :  0.5367965367965368
+      Training Recall score :  0.3076923076923077
+      Testing f1 score :  0.23846153846153847
+
+Result for Decision Tree Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.5887445887445888
+      Training Recall score :  1.0
+      Testing f1 score :  0.6076923076923076
+
+Result for Random Forest Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.6753246753246753
+      Training Recall score :  1.0
+      Testing f1 score :  0.6307692307692307
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.8206521739130435
+Testing Accuracy :  0.6060606060606061
+      Training Recall score :  0.8004158004158004
+      Testing f1 score :  0.6076923076923076
+
+Result for AdaBoost Classification
+Training Accuracy :  0.95
+Testing Accuracy :  0.70995670995671
+      Training Recall score :  0.9355509355509356
+      Testing f1 score :  0.6846153846153846
+
+Result for Neural Network Classification
+Training Accuracy :  0.7304347826086957
+Testing Accuracy :  0.645021645021645
+      Training Recall score :  0.7338877338877339
+      Testing f1 score :  0.6461538461538462
+
+Result for SVM Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.5757575757575758
+      Training Recall score :  1.0
+      Testing f1 score :  0.8538461538461538
+-------------------------------------------------------
+
+
+Default of Credit Card Clients Dataset
+
+Result for Logistic Regression Classification
+Training Accuracy :  0.8068333333333333
+Testing Accuracy :  0.8181666666666667
+      Training Recall score :  0.23356433789099082
+      Testing f1 score :  0.23747108712413262
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.372
+Testing Accuracy :  0.36466666666666664
+      Training Recall score :  0.8943622401198726
+      Testing f1 score :  0.899768696993061
+
+Result for Decision Tree Classification
+Training Accuracy :  0.999625
+Testing Accuracy :  0.7376666666666667
+      Training Recall score :  0.9985015920584379
+      Testing f1 score :  0.42945258288357746
+
+Result for Random Forest Classification
+Training Accuracy :  0.999625
+Testing Accuracy :  0.8218333333333333
+      Training Recall score :  0.9988761940438284
+      Testing f1 score :  0.37393986121819583
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.84375
+Testing Accuracy :  0.7363333333333333
+      Training Recall score :  0.4789286383217831
+      Testing f1 score :  0.2243639167309175
+
+Result for AdaBoost Classification
+Training Accuracy :  0.821125
+Testing Accuracy :  0.8231666666666667
+      Training Recall score :  0.34800524442779546
+      Testing f1 score :  0.3415574402467232
+
+Result for Neural Network Classification
+Training Accuracy :  0.7775
+Testing Accuracy :  0.7835
+      Training Recall score :  0.00037460198539052256
+      Testing f1 score :  0.0
+
+Result for SVM Classification
+Training Accuracy :  0.9989583333333333
+Testing Accuracy :  0.7836666666666666
+      Training Recall score :  0.9971904851095711
+      Testing f1 score :  0.01927525057825752
+-------------------------------------------------------
+
+
+Breast Cancer Wisconsin Dataset
+
+Result for Logistic Regression Classification
+Training Accuracy :  0.9355992844364938
+Testing Accuracy :  0.9571428571428572
+      Training Recall score :  0.9139784946236559
+      Testing f1 score :  0.9636363636363636
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.7996422182468694
+Testing Accuracy :  0.7428571428571429
+      Training Recall score :  0.3978494623655914
+      Testing f1 score :  0.36363636363636365
+
+Result for Decision Tree Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.9357142857142857
+      Training Recall score :  1.0
+      Testing f1 score :  0.8909090909090909
+
+Result for Random Forest Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.9785714285714285
+      Training Recall score :  1.0
+      Testing f1 score :  0.9818181818181818
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.8085867620751341
+Testing Accuracy :  0.5142857142857142
+      Training Recall score :  0.6236559139784946
+      Testing f1 score :  0.32727272727272727
+
+Result for AdaBoost Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.95
+      Training Recall score :  1.0
+      Testing f1 score :  0.9090909090909091
+
+Result for Neural Network Classification
+Training Accuracy :  0.667262969588551
+Testing Accuracy :  0.6071428571428571
+      Training Recall score :  0.0
+      Testing f1 score :  0.0
+
+Result for SVM Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.6142857142857143
+      Training Recall score :  1.0
+      Testing f1 score :  0.01818181818181818
+-------------------------------------------------------
+
+
+Australian Credit Approval Dataset
+
+Result for Logistic Regression Classification
+Training Accuracy :  0.8568840579710145
+Testing Accuracy :  0.8913043478260869
+      Training Precision score :  0.8196078431372549
+      Testing f1 score :  0.9166666666666666
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.7844202898550725
+Testing Accuracy :  0.8043478260869565
+      Training Precision score :  0.847457627118644
+      Testing f1 score :  0.9523809523809523
+
+Result for Decision Tree Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.8043478260869565
+      Training Precision score :  1.0
+      Testing f1 score :  0.796875
+
+Result for Random Forest Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.8768115942028986
+      Training Precision score :  1.0
+      Testing f1 score :  0.875
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.8333333333333334
+Testing Accuracy :  0.7028985507246377
+      Training Precision score :  0.8378378378378378
+      Testing f1 score :  0.7142857142857143
+
+Result for AdaBoost Classification
+Training Accuracy :  0.9818840579710145
+Testing Accuracy :  0.8333333333333334
+      Training Precision score :  0.9873949579831933
+      Testing f1 score :  0.828125
+
+Result for Neural Network Classification
+Training Accuracy :  0.7264492753623188
+Testing Accuracy :  0.6811594202898551
+      Training Precision score :  0.7791411042944786
+      Testing f1 score :  0.7142857142857143
+
+Result for SVM Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.5362318840579711
+      Training Precision score :  1.0
+      Testing f1 score :  0.6
+-------------------------------------------------------
+
+
+German Credit Dataset
+
+Result for Logistic Regression Classification
+Training Accuracy :  0.785
+Testing Accuracy :  0.75
+      Training Recall score :  0.9014336917562724
+      Testing f1 score :  0.8169014084507042
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.7375
+Testing Accuracy :  0.71
+      Training Recall score :  0.7777777777777778
+      Testing f1 score :  0.7464788732394366
+
+Result for Decision Tree Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.67
+      Training Recall score :  1.0
+      Testing f1 score :  0.7323943661971831
+
+Result for Random Forest Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.75
+      Training Recall score :  1.0
+      Testing f1 score :  0.8732394366197183
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.83375
+Testing Accuracy :  0.68
+      Training Recall score :  0.9247311827956989
+      Testing f1 score :  0.8028169014084507
+
+Result for AdaBoost Classification
+Training Accuracy :  0.84
+Testing Accuracy :  0.76
+      Training Recall score :  0.921146953405018
+      Testing f1 score :  0.8380281690140845
+
+Result for Neural Network Classification
+Training Accuracy :  0.79875
+Testing Accuracy :  0.735
+      Training Recall score :  0.9014336917562724
+      Testing f1 score :  0.823943661971831
+
+Result for SVM Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.73
+      Training Recall score :  1.0
+      Testing f1 score :  0.9929577464788732
+-------------------------------------------------------
+
+
+Steel Plates Faults Dataset
+
+Result for Logistic Regression Classification
+
+Training Accuracy :  0.8872422680412371
+Testing Accuracy :  0.9048843187660668
+      Training f1 score :  [91.67855445 82.51748252]
+      Testing f1 score :  [93.23583181 83.98268398]
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.5038659793814433
+Testing Accuracy :  0.46786632390745503
+      Training f1 score :  [39.84375    57.78508772]
+      Testing f1 score :  [37.83783784 53.48314607]
+
+Result for Decision Tree Classification
+Training Accuracy :  1.0
+Testing Accuracy :  1.0
+      Training f1 score :  [100. 100.]
+      Testing f1 score :  [100. 100.]
+
+Result for Random Forest Classification
+Training Accuracy :  1.0
+Testing Accuracy :  1.0
+      Training f1 score :  [100. 100.]
+      Testing f1 score :  [100. 100.]
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.7860824742268041
+Testing Accuracy :  0.6143958868894601
+      Training f1 score :  [83.99228544 67.76699029]
+      Testing f1 score :  [71.3740458  40.94488189]
+
+Result for AdaBoost Classification
+Training Accuracy :  1.0
+Testing Accuracy :  1.0
+      Training f1 score :  [100. 100.]
+      Testing f1 score :  [100. 100.]
+
+Result for Neural Network Classification
+Training Accuracy :  0.5373711340206185
+Testing Accuracy :  0.532133676092545
+      Training f1 score :  [57.56501182 49.15014164]
+      Testing f1 score :  [58.25688073 46.78362573]
+
+Result for SVM Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.6683804627249358
+      Training f1 score :  [100. 100.]
+      Testing f1 score :  [80.12326656  0.        ]
+-------------------------------------------------------
+
+
+Adult Dataset
+
+Result for Logistic Regression Classification
+Training Accuracy :  0.8101409661865422
+Testing Accuracy :  0.8104539033228917
+      Training f1 score :  [88.31424143 49.41080196]
+      Testing f1 score :  [88.33623101 49.4429882 ]
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.7952765578452751
+Testing Accuracy :  0.795098581168233
+      Training f1 score :  [87.55786173 42.26571973]
+      Testing f1 score :  [87.58743861 41.32958143]
+
+Result for Decision Tree Classification
+Training Accuracy :  0.9999692884125181
+Testing Accuracy :  0.8086112646643326
+      Training f1 score :  [99.99797739 99.99362286]
+      Testing f1 score :  [87.40603023 60.15345269]
+
+Result for Random Forest Classification
+Training Accuracy :  0.9999692884125181
+Testing Accuracy :  0.8559670781893004
+      Training f1 score :  [99.99797739 99.99362286]
+      Testing f1 score :  [90.81796468 66.60971095]
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.8667117103283069
+Testing Accuracy :  0.7594128124808058
+      Training f1 score :  [91.51349237 68.96009155]
+      Testing f1 score :  [84.79602531 42.38858656]
+
+Result for AdaBoost Classification
+Training Accuracy :  0.8724854887749148
+Testing Accuracy :  0.8692340765309257
+      Training f1 score :  [91.83609265 70.89175547]
+      Testing f1 score :  [91.66503543 69.66804388]
+
+Result for Neural Network Classification
+Training Accuracy :  0.801695279629004
+Testing Accuracy :  0.8042503531724096
+      Training f1 score :  [88.2005738 37.9074911]
+      Testing f1 score :  [88.38514523 37.79035721]
+
+Result for SVM Classification
+Training Accuracy :  0.9999692884125181
+Testing Accuracy :  0.7638965665499662
+      Training f1 score :  [99.99797739 99.99362286]
+      Testing f1 score :  [86.59412708  1.13168724]
+-------------------------------------------------------
+
+
+Yeast Dataset
+
+Result for Logistic Regression Classification
+Training Accuracy :  0.5998315080033698
+Testing Accuracy :  0.569023569023569
+      Training f1 score :  [ 60.73059361 100.          68.08510638  72.4137931   46.57534247  76.97841727  58.35543767  53.82059801  59.25925926   0.        ]
+      Testing f1 score :  [60.52631579 15.38461538 54.54545455 14.28571429 65.57377049 64.58333333   52.34899329 57.14285714  0.        ]
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.5754001684919966
+Testing Accuracy :  0.5757575757575758
+      Training f1 score :  [59.00473934 58.82352941 55.26315789 63.33333333 45.45454545 77.69784173   61.07784431 50.26362039 64.28571429  6.89655172]
+      Testing f1 score :  [62.44343891  0.         47.61904762 66.66666667 29.62962963 70.58823529  62.79069767 53.52112676 57.14285714  0.        ]
+
+Result for Decision Tree Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.5252525252525253
+      Training f1 score :  [100. 100. 100. 100. 100. 100. 100. 100. 100. 100.]
+      Testing f1 score :  [54.25531915 37.5        47.61904762   28.57142857   76.92307692   52.3364486  53.57142857 18.18181818  0.        ]
+
+Result for Random Forest Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.6397306397306397
+      Training f1 score :  [100. 100. 100. 100. 100. 100. 100. 100. 100. 100.]
+      Testing f1 score :  [64.0776699  36.36363636 76.92307692 35.29411765 77.19298246 65.90909091   62.92134831 66.66666667  0.        ]
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.7320977253580455
+Testing Accuracy :  0.5555555555555556
+      Training f1 score :  [76.92307692 60.         65.51724138 46.37681159 44.7761194  64.    77.68115942 77.11598746 52.17391304 69.76744186]
+      Testing f1 score :  [63.79310345  0.         13.33333333  0.         18.18181818 47.27272727   62.92134831 58.38509317  0.         28.57142857]
+
+Result for AdaBoost Classification
+Training Accuracy :  0.45492839090143217
+Testing Accuracy :  0.42424242424242425
+      Training f1 score :  [56.24454148 88.88888889 55.38461538 78.78787879 44.7761194  75.   6.00858369 15.59633028 10.         10.81081081]
+      Testing f1 score :  [56.08108108 28.57142857 83.33333333 23.52941176 68.96551724  6.66666667   10.61946903 50.          0.        ]
+
+Result for Neural Network Classification
+Training Accuracy :  0.32771693344566133
+Testing Accuracy :  0.3333333333333333
+      Training f1 score :  [36.20474407  0.          0.          0.          0.          0.   0.         44.64775846  0.          0.        ]
+      Testing f1 score :  [34.44976077  0.          0.          0.          0.          0.  46.15384615  0.          0.        ]
+
+Result for SVM Classification
+Training Accuracy :  0.9031171019376579
+Testing Accuracy :  0.5622895622895623
+      Training f1 score :  [ 90.69462647 100.          92.30769231  91.52542373  84.61538462
+  86.98884758  91.97860963  90.40697674  96.96969697  87.5       ]
+      Testing f1 score :  [66.00985222  0.         44.44444444 18.18181818 17.39130435 48.27586207    65.26315789 58.2278481   0.         20.        ]
+-------------------------------------------------------
+
+
+Thoracic Surgery Dataset
+
+Result for Logistic Regression Classification
+Training Accuracy :  0.8643617021276596
+Testing Accuracy :  0.8085106382978723
+      Training f1 score :  [92.6618705  10.52631579]
+      Testing f1 score :  [89.41176471  0.        ]
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.18882978723404256
+Testing Accuracy :  0.20212765957446807
+      Training f1 score :  [11.0787172  25.42787286]
+      Testing f1 score :  [ 5.06329114 31.19266055]
+
+Result for Decision Tree Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.6808510638297872
+      Training f1 score :  [100. 100.]
+      Testing f1 score :  [80.51948052 11.76470588]
+
+Result for Random Forest Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.8085106382978723
+      Training f1 score :  [100. 100.]
+      Testing f1 score :  [89.41176471  0.        ]
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.8856382978723404
+Testing Accuracy :  0.7872340425531915
+      Training f1 score :  [93.64844904 42.66666667]
+      Testing f1 score :  [88.0952381  0.       ]
+
+Result for AdaBoost Classification
+Training Accuracy :  0.9361702127659575
+Testing Accuracy :  0.7872340425531915
+      Training f1 score :  [96.3963964  72.09302326]
+      Testing f1 score :  [87.95180723  9.09090909]
+
+Result for Neural Network Classification
+Training Accuracy :  0.8670212765957447
+Testing Accuracy :  0.8085106382978723
+      Training f1 score :  [92.83667622  7.40740741]
+      Testing f1 score :  [89.41176471  0.        ]
+
+Result for SVM Classification
+Training Accuracy :  0.9601063829787234
+Testing Accuracy :  0.776595744680851
+      Training f1 score :  [97.73755656 83.14606742]
+      Testing f1 score :  [87.4251497  0.       ]
+-------------------------------------------------------
+
+
+Seismic-Bumps Dataset
+
+Result for Logistic Regression Classification
+
+Training Accuracy :  0.9003386550556362
+Testing Accuracy :  0.9032882011605415
+      Training f1 score :  [94.74489796  3.73831776]
+      Testing f1 score :  [94.90835031  3.84615385]
+
+Result for Gaussian Naive Bayes Classification
+Training Accuracy :  0.9032414126753749
+Testing Accuracy :  0.9052224371373307
+      Training f1 score :  [94.84270242 21.875     ]
+      Testing f1 score :  [94.98464688 14.03508772]
+
+Result for Decision Tree Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.8858800773694391
+      Training f1 score :  [100. 100.]
+      Testing f1 score :  [93.84775808 21.33333333]
+
+Result for Random Forest Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.9439071566731141
+      Training f1 score :  [100. 100.]
+      Testing f1 score :  [97.1028971  12.12121212]
+
+Result for K-Nearest Neighbours Classification
+Training Accuracy :  0.9371069182389937
+Testing Accuracy :  0.9400386847195358
+      Training f1 score :  [96.70552458 30.85106383]
+      Testing f1 score :  [96.8968969  11.42857143]
+
+Result for AdaBoost Classification
+Training Accuracy :  0.9525882922109338
+Testing Accuracy :  0.9342359767891683
+      Training f1 score :  [97.51142712 50.        ]
+      Testing f1 score :  [96.57947686 15.        ]
+
+Result for Neural Network Classification
+Training Accuracy :  0.6178035800677311
+Testing Accuracy :  0.6305609284332688
+      Training f1 score :  [75.34332085 15.05376344]
+      Testing f1 score :  [76.79222357  9.47867299]
+
+Result for SVM Classification
+Training Accuracy :  1.0
+Testing Accuracy :  0.9477756286266924
+      Training f1 score :  [100. 100.]
+      Testing f1 score :  [97.31876862  0.        ]
+-------------------------------------------------------

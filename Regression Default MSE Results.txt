@@ -1,0 +1,321 @@
+Wine Quality Dataset
+
+Result for RBF Support Vector Regression
+Training Mean Squared Error  0.4033385962260029
+Testing Mean Squared Error  0.44631207129971107
+
+Result for Linear Support Vector Regression
+Training Mean Squared Error  0.5496536038615472
+Testing Mean Squared Error  0.5284637717603364
+
+Result for Decision Tree Regression
+Training Mean Squared Error  0.0
+Testing Mean Squared Error  0.7123076923076923
+
+Result for Random Forest Regression
+Training Mean Squared Error  0.05388581482296019
+Testing Mean Squared Error  0.36627630769230773
+
+Result for AdaBoost Regression
+Training Mean Squared Error  0.5217082988930016
+Testing Mean Squared Error  0.5221184134381388
+
+Result for Gaussian Process Regression
+Training Mean Squared Error  4.29885290266237e-17
+Testing Mean Squared Error  1.6293477420389066
+
+Result for Linear Regression
+Training Mean Squared Error  0.5470997618019927
+Testing Mean Squared Error  0.5256971901381217
+
+Result for Ridge Regression
+Training Mean Squared Error  0.5470998290018181
+Testing Mean Squared Error  0.5256893206137516
+-------------------------------------------------------
+
+
+Communities and Crimes Dataset 
+
+Result for RBF Support Vector Regression
+Training Mean Squared Error  0.01068493107745376
+Testing Mean Squared Error  0.022274701792645152
+
+Result for Linear Support Vector Regression
+Training Mean Squared Error  0.016217104153206596
+Testing Mean Squared Error  0.021295675704182133
+
+Result for Decision Tree Regression
+Training Mean Squared Error  5.073686412633041e-36
+Testing Mean Squared Error  0.0372016694490818
+
+Result for Random Forest Regression
+Training Mean Squared Error  0.0025660900860215055
+Testing Mean Squared Error  0.021966933639399
+
+Result for AdaBoost Regression
+Training Mean Squared Error  0.020620889383607552
+Testing Mean Squared Error  0.028713711714980508
+
+Result for Gaussian Process Regression
+Training Mean Squared Error  1.9666084069336926e-21
+Testing Mean Squared Error  0.03794037005567048
+
+Result for Linear Regression
+Training Mean Squared Error  0.015447252507516971
+Testing Mean Squared Error  0.021155098839274744
+
+Result for Ridge Regression
+Training Mean Squared Error  0.015959682730009455
+Testing Mean Squared Error  0.020204506587357954
+-------------------------------------------------------
+
+
+QSAR Aquatic Toxicity Dataset Training
+
+Result for RBF Support Vector Regression
+Training Mean Squared Error  1.0644659372006144
+Testing Mean Squared Error  1.1985992586506158
+
+Result for Linear Support Vector Regression
+Training Mean Squared Error  1.5068149580519785
+Testing Mean Squared Error  1.5440173335101115
+
+Result for Decision Tree Regression
+Training Mean Squared Error  0.0003875580279232116
+Testing Mean Squared Error  2.1027092195121946
+
+Result for Random Forest Regression
+Training Mean Squared Error  0.19480039192965098
+Testing Mean Squared Error  1.1384346297405603
+
+Result for AdaBoost Regression
+Training Mean Squared Error  1.091563144992105
+Testing Mean Squared Error  1.2754399447653229
+
+Result for Gaussian Process Regression
+Training Mean Squared Error  0.0003989606639028597
+Testing Mean Squared Error  1243.5448933402129
+
+Result for Linear Regression
+Training Mean Squared Error  1.4461442987549695
+Testing Mean Squared Error  1.5127353305993256
+
+Result for Ridge Regression
+Training Mean Squared Error  1.4464447208977758
+Testing Mean Squared Error  1.4989493866798014
+-------------------------------------------------------
+
+
+Parkinsons Dataset
+
+Result for RBF Support Vector Regression
+Training Mean Squared Error  181.23558294101412
+Testing Mean Squared Error  246.59560188588483
+
+Result for Linear Support Vector Regression
+Training Mean Squared Error  137.1238603765139
+Testing Mean Squared Error  203.665036517886
+
+Result for Decision Tree Regression
+Training Mean Squared Error  0.0
+Testing Mean Squared Error  85.67948717948718
+
+Result for Random Forest Regression
+Training Mean Squared Error  3.4413729395604404
+Testing Mean Squared Error  34.30101506410257
+
+Result for AdaBoost Regression
+Training Mean Squared Error  51.05152049528428
+Testing Mean Squared Error  68.66596575738443
+
+Result for Gaussian Process Regression
+Training Mean Squared Error  3.4401880685614875e-18
+Testing Mean Squared Error  272.7482867372249
+
+Result for Linear Regression
+Training Mean Squared Error  127.11021095732714
+Testing Mean Squared Error  190.69077632234288
+
+Result for Ridge Regression
+Training Mean Squared Error  127.55598310927172
+Testing Mean Squared Error  191.3996652968645
+-------------------------------------------------------
+
+
+Facebook Metrics Dataset
+
+Result for RBF Support Vector Regression
+Training Mean Squared Error  176959.82594875942
+Testing Mean Squared Error  82316.10808669525
+
+Result for Linear Support Vector Regression
+Training Mean Squared Error  23036.488651092874
+Testing Mean Squared Error  14863.47012545851
+
+Result for Decision Tree Regression
+Training Mean Squared Error  0.0
+Testing Mean Squared Error  1319.3733333333332
+
+Result for Random Forest Regression
+Training Mean Squared Error  8188.114338571425
+Testing Mean Squared Error  1168.321415333333
+
+Result for AdaBoost Regression
+Training Mean Squared Error  2210.483545424977
+Testing Mean Squared Error  3282.334921499285
+
+Result for Gaussian Process Regression
+Training Mean Squared Error  4.047165513247459e-15
+Testing Mean Squared Error  96196.91334507485
+
+Result for Linear Regression
+Training Mean Squared Error  112.45098352328354
+Testing Mean Squared Error  25.341574991233003
+
+Result for Ridge Regression
+Training Mean Squared Error  121.29511487812452
+Testing Mean Squared Error  30.966935439719443
+-------------------------------------------------------
+
+
+Bike Sharing Dataset
+
+Result for RBF Support Vector Regression
+Training Mean Squared Error  3460.067039659084
+Testing Mean Squared Error  3193.4468368802177
+
+Result for Linear Support Vector Regression
+Training Mean Squared Error  0.0029445137293950827
+Testing Mean Squared Error  0.002847626306899193
+
+Result for Decision Tree Regression
+Training Mean Squared Error  0.0
+Testing Mean Squared Error  30.368814729574222
+
+Result for Random Forest Regression
+Training Mean Squared Error  1.4330636169338264
+Testing Mean Squared Error  7.0684832566167985
+
+Result for AdaBoost Regression
+Training Mean Squared Error  670.4569952676278
+Testing Mean Squared Error  683.4300450214415
+
+Result for Gaussian Process Regression
+Training Mean Squared Error  4.3360836544791567e-16
+Testing Mean Squared Error  1625.752561907072
+
+Result for Linear Regression
+Training Mean Squared Error  2.8837416902154045e-26
+Testing Mean Squared Error  2.8002115970574994e-26
+
+Result for Ridge Regression
+Training Mean Squared Error  0.00023279791864831172
+Testing Mean Squared Error  0.000217530788181915
+-------------------------------------------------------
+
+
+Student Performance Dataset
+
+Result for RBF Support Vector Regression
+Training Mean Squared Error  2.0902021129339126
+Testing Mean Squared Error  1.7476489262399377
+
+Result for Linear Support Vector Regression
+Training Mean Squared Error  1.6552642937718942
+Testing Mean Squared Error  1.5643810530784095
+
+Result for Decision Tree Regression
+Training Mean Squared Error  0.0
+Testing Mean Squared Error  3.6717948717948716
+
+Result for Random Forest Regression
+Training Mean Squared Error  0.24319427312775332
+Testing Mean Squared Error  1.7738507692307692
+
+Result for AdaBoost Regression
+Training Mean Squared Error  0.8513789321727593
+Testing Mean Squared Error  1.8499424115287568
+
+Result for Gaussian Process Regression
+Training Mean Squared Error  1.4989406186924667e-18
+Testing Mean Squared Error  155.16214119348666
+
+Result for Linear Regression
+Training Mean Squared Error  1.4769964727059408
+Testing Mean Squared Error  1.5764816867387563
+
+Result for Ridge Regression
+Training Mean Squared Error  1.4770262781344088
+Testing Mean Squared Error  1.5738508178734125
+-------------------------------------------------------
+
+
+Concrete Compressive Dataset
+
+Result for RBF Support Vector Regression
+Training Mean Squared Error  99.31215739296027
+Testing Mean Squared Error  102.09147550776824
+
+Result for Linear Support Vector Regression
+Training Mean Squared Error  114.30534033465037
+Testing Mean Squared Error  107.58401527205167
+
+Result for Decision Tree Regression
+Training Mean Squared Error  1.1749191202048375
+Testing Mean Squared Error  51.313570216089246
+
+Result for Random Forest Regression
+Training Mean Squared Error  4.4292913100677564
+Testing Mean Squared Error  30.285598061273586
+
+Result for AdaBoost Regression
+Training Mean Squared Error  48.7923619944954
+Testing Mean Squared Error  56.98094935930936
+
+Result for Gaussian Process Regression
+Training Mean Squared Error  1.1749695764540804
+Testing Mean Squared Error  26151.001901272393
+
+Result for Linear Regression
+Training Mean Squared Error  109.11595097067675
+Testing Mean Squared Error  103.1486574679706
+
+Result for Ridge Regression
+Training Mean Squared Error  109.1233119844265
+Testing Mean Squared Error  103.22388954823455
+-------------------------------------------------------
+
+
+SGEMM GPU Performance Dataset
+
+Result for RBF Support Vector Regression
+Training Mean Squared Error  70493.97349006338
+Testing Mean Squared Error  69498.69197103602
+
+Result for Linear Support Vector Regression
+Training Mean Squared Error  104745.95337530682
+Testing Mean Squared Error  103394.01237354161
+
+Result for Decision Tree Regression
+Training Mean Squared Error  1.0523120873809146e-30
+Testing Mean Squared Error  23.46816173875552
+
+Result for Random Forest Regression
+Training Mean Squared Error  2.703450858318154
+Testing Mean Squared Error  18.313996535194853
+
+Result for AdaBoost Regression
+Training Mean Squared Error  77612.98443457467
+Testing Mean Squared Error  77899.37493155955
+
+Result for Gaussian Process Regression
+CRASHED
+
+Result for Linear Regression
+Training Mean Squared Error  80693.17800560604
+Testing Mean Squared Error  80287.64228076009
+
+Result for Ridge Regression
+Training Mean Squared Error  80693.17800974834
+Testing Mean Squared Error  80287.6302536292
+-------------------------------------------------------
